@@ -1,0 +1,68 @@
+.container-fluid
+{
+    background-image: url(jhg.jpg);
+    background-size: cover;
+
+  
+}
+.navbar
+{
+    display:flex;
+    width: 100%;
+}
+.themecolor1 {
+    background-color:rgb(51, 12, 12)
+ }
+.carousel
+{
+ height: fit-content;
+
+}
+.feature-explore{
+    text-align: center;
+    margin-top: 150px;
+}
+.rounded-circle
+{
+    margin-top: 50px;
+}
+.lead
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 60px;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.ca-img {
+    height: 300px;
+    width:300px;
+    padding-top: 5px;
+}
+
+
+button{
+    background-color: green;
+}
+.card-deck{
+    background-color: darkred;
+}
+.card-body:hover{
+    background-color: lightgreen;
+
+}
+h1{
+    text-align: center;
+    color: blue;
+    
+}
+.footer{
+    background-color:darkblue;
+    color: white;
+    height: 35px;
+    padding: 5px;
+    
+
+}
